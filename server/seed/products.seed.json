@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Aashirvaad Superior MP Atta 5kg",
+    "category": "atta",
+    "aliases": [
+      "aashirvaad atta", "ashirvad atta", "atta", "gehu ka atta", "mp atta", "aashirvaad",
+      "आशीर्वाद आटा", "आशीर्वाद", "आटा", "गेहूं का आटा", "एमपी आटा"
+    ],
+    "mrp": 320,
+    "price": 295,
+    "stock": 45,
+    "unit": "packet",
+    "active": true
+  },
+  {
+    "name": "Fortune Chakki Fresh Atta 5kg",
+    "category": "atta",
+    "aliases": [
+      "fortune atta", "chakki fresh atta", "fortune fresh atta", "fortune chakki atta",
+      "फॉर्च्यून आटा", "चक्की फ्रेश आटा", "फॉर्च्यून चक्की आटा"
+    ],
+    "mrp": 290,
+    "price": 265,
+    "stock": 40,
+    "unit": "packet",
+    "active": true
+  },
+  {
+    "name": "Fortune Sunlite Refined Sunflower Oil 1L",
+    "category": "tel",
+    "aliases": [
+      "fortune tel", "refined tel", "sunflower oil", "tel", "sunlite oil", "refined oil",
+      "तेल", "रिफाइंड तेल", "फॉर्च्यून तेल", "सूरजमुखी तेल"
+    ],
+    "mrp": 165,
+    "price": 145,
+    "stock": 60,
+    "unit": "litre",
+    "active": true
+  },
+  {
+    "name": "India Gate Super Basmati Rice 1kg",
+    "category": "chawal",
+    "aliases": [
+      "basmati chawal", "chawal", "rice", "india gate chawal", "basmati rice", "india gate",
+      "चावल", "बासमती चावल", "इंडिया गेट चावल", "बासमती राइस"
+    ],
+    "mrp": 140,
+    "price": 125,
+    "stock": 50,
+    "unit": "kg",
+    "active": true
+  },
+  {
+    "name": "Tata Sampann Unpolished Toor Dal 1kg",
+    "category": "dal",
+    "aliases": [
+      "arhar dal", "toor dal", "tuvar dal", "dal", "tata dal", "sampann dal",
+      "दाल", "अरहर दाल", "तूर दाल", "टाटा दाल"
+    ],
+    "mrp": 185,
+    "price": 168,
+    "stock": 35,
+    "unit": "kg",
+    "active": true
+  },
+  {
+    "name": "Madhur Pure & Hygienic Sugar 1kg",
+    "category": "chini",
+    "aliases": [
+      "madhur chini", "chini", "sugar", "shakkar", "crystal sugar",
+      "चीनी", "शक्कर", "मधुर चीनी", "सफेद चीनी"
+    ],
+    "mrp": 55,
+    "price": 48,
+    "stock": 80,
+    "unit": "kg",
+    "active": true
+  },
+  {
+    "name": "Rajdhani Sooji Maida 1kg",
+    "category": "maida",
+    "aliases": [
+      "rajdhani maida", "maida", "fine flour", "rajdhani",
+      "मैदा", "राजधानी मैदा"
+    ],
+    "mrp": 50,
+    "price": 45,
+    "stock": 40,
+    "unit": "kg",
+    "active": true
+  },
+  {
+    "name": "Tata Salt Vacuum Evaporated Iodised 1kg",
+    "category": "namak",
+    "aliases": [
+      "tata namak", "namak", "salt", "iodized namak", "white salt",
+      "नमक", "टाटा नमक", "आयोडीन नमक"
+    ],
+    "mrp": 28,
+    "price": 28,
+    "stock": 120,
+    "unit": "packet",
+    "active": true
+  },
+  {
+    "name": "Haldiram Nagpur Aloo Bhujia 400g",
+    "category": "snacks",
+    "aliases": [
+      "aloo bhujia", "bhujia", "haldiram bhujia", "namkeen", "snacks", "sev",
+      "आलू भुजिया", "भुजिया", "नमकीन", "हल्दीराम भुजिया", "सेव"
+    ],
+    "mrp": 120,
+    "price": 115,
+    "stock": 55,
+    "unit": "packet",
+    "active": true
+  },
+  {
+    "name": "Kurkure Masala Munch 85g",
+    "category": "snacks",
+    "aliases": [
+      "kurkure", "masala munch", "kurkure packet", "tedhe medhe",
+      "कुरकुरे", "कुरकुरे पैकेट", "मसाला मंच"
+    ],
+    "mrp": 20,
+    "price": 20,
+    "stock": 70,
+    "unit": "packet",
+    "active": true
+  },
+  {
+    "name": "Parle-G Original Gluco Biscuits 800g",
+    "category": "biscuit",
+    "aliases": [
+      "parle g", "parle-g biscuit", "biscuit", "biscut", "gluco biscuit", "parle",
+      "बिस्कुट", "बिस्किट", "पारले जी", "ग्लूको बिस्कुट"
+    ],
+    "mrp": 85,
+    "price": 85,
+    "stock": 65,
+    "unit": "packet",
+    "active": true
+  },
+  {
+    "name": "Dettol Original Bathing Soap 75g",
+    "category": "sabun",
+    "aliases": [
+      "dettol sabun", "sabun", "soap", "dettol soap", "bath soap",
+      "साबुन", "डेटॉल साबुन", "डेटॉल", "नहाने का साबुन"
+    ],
+    "mrp": 40,
+    "price": 40,
+    "stock": 90,
+    "unit": "piece",
+    "active": true
+  },
+  {
+    "name": "Lifebuoy Total Germ Protection Soap 100g",
+    "category": "sabun",
+    "aliases": [
+      "lifebuoy sabun", "lifebuoy soap", "red soap", "lifebuoy",
+      "लाइफबॉय", "लाइफबॉय साबुन"
+    ],
+    "mrp": 36,
+    "price": 36,
+    "stock": 75,
+    "unit": "piece",
+    "active": true
+  },
+  {
+    "name": "Brooke Bond Red Label Tea 250g",
+    "category": "chai",
+    "aliases": [
+      "red label chai", "chai patti", "chai", "tea", "red label", "patti",
+      "चाय पत्ती", "चाय", "रेड लेबल", "पत्ती", "चाय की पत्ती"
+    ],
+    "mrp": 145,
+    "price": 135,
+    "stock": 45,
+    "unit": "packet",
+    "active": true
+  },
+  {
+    "name": "Amul Taaza Homogenised Toned Milk 500ml",
+    "category": "doodh",
+    "aliases": [
+      "amul doodh", "taaza doodh", "doodh", "milk", "amul milk", "toned milk",
+      "दूध", "अमूल दूध", "ताज़ा दूध", "अमूल"
+    ],
+    "mrp": 27,
+    "price": 27,
+    "stock": 40,
+    "unit": "packet",
+    "active": true
+  }
+]
