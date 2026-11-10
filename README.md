@@ -1,6 +1,7 @@
 # OrderPay 🛒
 > **Voice-First Kirana POS, Billing & Khata Management**  
-> *Built for the Great Indian AI Internship Challenge by Gnani.ai*
+> *Built for the Great Indian AI Internship Challenge by Gnani.ai*  
+> 📄 **[Read 1-Page Solution Pitch](./SOLUTION_PITCH.md)** | 🌐 **[Repository](https://github.com/yush-1018/Order)**
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://react.dev/)
